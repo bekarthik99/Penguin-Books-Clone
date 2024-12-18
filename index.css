@@ -1,0 +1,413 @@
+.main-container{
+    width: 100%;
+    height: 1890px;
+}
+.header{
+    width: 100%;
+    height: 60px;
+    padding: 9px;
+    background-color: #191919;
+}
+.logodiv{
+    width: 120px;
+    height: 60px;
+    margin-top: 0px;
+    margin-left: 10px;
+    float: left;
+}
+.tagdiv{
+    width: 1243px;
+    height: 45px;
+    padding-left: 23px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    float: left;
+}
+.searchandcartdiv{
+    width: 105px;
+    height: 50px;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+    float: left;
+}
+.logo{
+    width: 95px;
+    margin-left: 11px;
+    margin-top: 11px;
+}
+.taglinksdiv{
+    width: 825px;
+    height: 30px;
+    padding-top: 6px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.tags{
+    font-family: "AvantGardeLT-Demi";
+    font-style: normal;
+    color: #aaa;
+    font-size: 16px;
+    text-decoration: none;
+    padding-right: 24px;
+    float: left;
+}
+.searchicondiv{
+    width: 43px;
+    height: 38px;
+    padding-left: 2px;
+    padding-top: 12px;
+    float: left;
+}
+.carticondiv{
+    width: 43px;
+    height: 38px;
+    padding-left: 7px;
+    padding-top: 12px;
+    float: left;
+}
+.searchicon{
+    width: 26px;
+}
+.carticon{
+    width: 26px;
+}
+.collection{
+    width: 100%;
+    height: 290px;
+    align-items: center;
+}
+.collectionimg{
+    width: 1519px;
+}
+.productsmain{
+    width: 90%;
+    height: 450px;
+    padding-top: 60px;
+    padding-left: 148px;
+}
+.productdiv{
+    width: 285px;
+    height: 380px;
+    margin-right: 28px;
+    float: left;
+}
+.productlookdiv{
+    width: 285px;
+    height: 285px;
+    padding: 0px;
+    background-color: #aaa;
+    float: left;
+}
+.productdesdiv{
+    width: 285px;
+    height: 95px;
+    float: left;
+}
+.productimage{
+    width: 275px;
+    margin-top: 0px;
+    margin-left: 4px;
+    float: left;
+}
+.productbut{
+    width: 285px;
+    height: 285px;
+    padding: 0px;
+    border-style: solid;
+    background-color: white;
+    border-width: 2px;
+    border-color: #FAFAFA;
+    box-shadow: 0px 0.5px 1.5px 0px;
+    float: left;
+}
+.brandname{
+    font-family: "AvantGardeLT-Demi";
+    font-size: 43px;
+    margin-top: -220px;
+    margin-left: 150px;
+    color: white;
+}
+.caption{
+    font-family:  "Merel Light";
+    font-size: 21px;
+    margin-top: -21px;
+    margin-left: 150px;
+    color: white;
+    word-spacing: 2px;
+}
+.producttype{
+    font-size: 10px;
+    font-family: ITC Avant Garde Gothic W01 Bd, sans-serif;
+    margin-top: 24px;
+    margin-left: 108px;
+    font-weight: 800;
+    float: left;
+    color: gray;
+}
+.producttitle{
+    font-size: 16px;
+    font-family: ITC Avant Garde Gothic W01 Bd, sans-serif;
+    margin-top: -1px;
+    margin-left: 82px;
+    font-weight: 600;
+    float: left;
+}
+.status{
+    font-size: 13px;
+    font-family: ITC Avant Garde Gothic W01 Bd, sans-serif;
+    margin-top: -4px;
+    margin-left: 102px;
+    font-weight: 600;
+    float: left;
+    color: #aaa;
+}
+.engagement{
+    width: 100%;
+    height: 450px;
+    padding-top: 0px;
+    padding-left: 150px;
+    margin-top: -5px;
+}
+.engagementimg{
+    width: 1220px;
+}
+.engagetxt{
+    font-family: "AvantGardeLT-Demi";
+    font-size: 36px;
+    margin-top: -275px;
+    margin-left: 406px;
+    color: white;
+}
+.shopnowbutton{
+    width: 125px;
+    height: 50px;
+    background-color: #fe6417;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 548px;
+    border-width: 0px;
+    border-radius: 3px;
+    border-style: solid;
+    color: white;
+    font-family: "AvantGardeLT-Demi"
+}
+.engimage{
+    width: 1220px;
+    height: 405px;
+}
+.prefooter{
+    width: 100%;
+    height: 181px;
+    background-color: #f8f8f8;
+}
+.offerbanner{
+    width: 830px;
+    height: 165px;
+    padding-top: 30px;
+    padding-left: 150px;
+    float: left;
+}
+.emaildiv{
+    width: 530px;
+    height: 125px;
+    padding-left: 5px;
+    padding-top: 70px;
+    float: left;
+}
+.offerhead1{
+    font-family: "AvantGardeLT-Demi";
+    font-size: 19px;
+    margin-top: 0px;
+    margin-left: 0px;
+    color: #fe6417;
+}
+.offerhead2{
+    font-family: "AvantGardeLT-Demi";
+    font-size: 26.5px;
+    margin-top: -11px;
+    margin-left: 0px;
+    color: rgb(0, 0, 0);
+}
+.privacydes{
+    font-family: "AvantGardeLT-Demi";
+    font-size: 14px;
+    margin-top: -8px;
+    margin-left: 0px;
+    color: rgb(0, 0, 0);
+    float: left;
+}
+.privacy{
+    font-family: "AvantGardeLT-Demi";
+    font-size: 14px;
+    margin-top: -8px;
+    margin-left: 0px;
+    color: #fe6417;
+    text-decoration: none;
+    float: left;
+}
+.emailid{
+    width: 290px;
+    height: 48px;
+    border-width: 0px;
+    padding-left: 5px;
+    border-radius: 3px 0px 0px 3px;
+    font-family: AvenirNextLTW01-Regular, sans-serif;
+    color: #191919;
+    font-size: 14px;
+    float: left;
+}
+.emailsub{
+    width: 85px;
+    height: 50px;
+    background-color: #fe6417;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border-width: 0px;
+    border-radius: 0px 3px 3px 0px;
+    border-style: solid;
+    color: white;
+    font-family: "AvantGardeLT-Demi"
+}
+.dividor{
+    width: 100%;
+    height: 9px;
+    margin-top: -14px;
+    background-color: #fe6417;
+    float: left;
+}
+.grids{
+    width: 100%;
+    height: 255px;
+    padding-left: 150px;
+    background-color: #2E2E2E;
+}
+.ingrid{
+    width: 217px;
+    height: 180px;
+    margin-top: 40px;
+    margin-right: 95px;
+    float: left;
+}
+.heading{
+    width: 217px;
+    height: 36px;
+    float: left;    
+}
+.subhead{
+    width: 217px;
+    height: 36px;
+    float: left
+}
+.headtxt{
+    font-family: "AvantGardeLT-Demi";
+    font-size: 17px;
+    margin-top: 0px;
+    margin-left: 0px;
+    color: white;
+}
+.subtxt{
+    font-family:  "Merel Light";
+    font-size: 15px;
+    margin-top: 0px;
+    margin-left: 0px;
+    color: #aaa;
+    text-decoration: none;
+    word-spacing: 2px;
+}
+.social1{
+    width: 34px;
+    margin-top: 8px;
+    margin-right: 8px;
+    float: left;
+}
+.social2{
+    width: 35px;
+    margin-top: 8px;
+    margin-right: 8px;
+    float: left;
+}
+.social3{
+    width: 36px;
+    margin-top: 8px;
+    float: left;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    padding-left: 145px;
+    padding-top: 40px;
+    background-color: #191919;
+}
+.footlogodiv{
+    width: 112px;
+    height: 85px;
+    float: left;
+}
+.footbranddiv{
+    width: 580px;
+    height: 85px;
+    float: left;
+}
+.copyrightdiv{
+    width: 530px;
+    height: 85px;
+    float: left;
+}
+.logofoot{
+    width: 100px;
+    margin-left: 5px;
+}
+.thebrand1{
+    font-family: "Merel Light";
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: white;
+    float: left;
+}
+.thebrand2{
+    font-family: "Merel Light";
+    font-size: 15px;
+    margin-top: -16px;
+    margin-left: 20px;
+    color: white;
+    float: left;
+}
+.thebrand3{
+    font-family: "Merel Light";
+    font-size: 15px;
+    margin-top: -16px;
+    margin-left: 0px;
+    color: white;
+    float: left;
+}
+.brandlink{
+    font-family: "Merel Light";
+    font-size: 15px;
+    margin-top: -16px;
+    margin-left: 0px;
+    color: #fe6417;
+    text-decoration: none;
+    float: left;
+}
+.footin{
+    width: 280px;
+    height: 100px;
+}
+.copyrightdestxt{
+    font-family:  "Merel Light";
+    font-size: 14px;
+    margin-top: 12px;
+    margin-left: 0px;
+    color: #aaa;
+    text-decoration: none;
+    word-spacing: 2px;
+    text-align: right;
+}
+body{
+    margin: 0;
+}
